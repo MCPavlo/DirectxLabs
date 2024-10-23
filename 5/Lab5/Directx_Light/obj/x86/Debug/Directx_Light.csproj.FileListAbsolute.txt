@@ -1,0 +1,119 @@
+I:\Projects\Directx_Light\Directx_Light\bin\Debug\Directx_Light.exe
+I:\Projects\Directx_Light\Directx_Light\bin\Debug\Directx_Light.pdb
+I:\Projects\Directx_Light\Directx_Light\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Projects\Directx_Light\Directx_Light\obj\x86\Debug\Directx_Light.Properties.Resources.resources
+I:\Projects\Directx_Light\Directx_Light\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+I:\Projects\Directx_Light\Directx_Light\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+I:\Projects\Directx_Light\Directx_Light\obj\x86\Debug\Directx_Light.exe
+I:\Projects\Directx_Light\Directx_Light\obj\x86\Debug\Directx_Light.pdb
+E:\Графика\Directx_Light\Directx_Light\obj\x86\Debug\Directx_Light.exe
+E:\Графика\Directx_Light\Directx_Light\obj\x86\Debug\Directx_Light.pdb
+E:\Графика\Directx_Light\Directx_Light\bin\Debug\Directx_Light.exe
+E:\Графика\Directx_Light\Directx_Light\bin\Debug\Directx_Light.pdb
+E:\Графика\Directx_Light\Directx_Light\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Графика\Directx_Light\Directx_Light\obj\x86\Debug\Directx_Light.Properties.Resources.resources
+E:\Графика\Directx_Light\Directx_Light\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Графика\Directx_Light\Directx_Light\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.exe
+E:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.pdb
+E:\Графика\Directx_Light_pyramide\Directx_Light\bin\Debug\Directx_Light.exe
+E:\Графика\Directx_Light_pyramide\Directx_Light\bin\Debug\Directx_Light.pdb
+E:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.Properties.Resources.resources
+E:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+J:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.exe
+J:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.pdb
+F:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.exe
+F:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.pdb
+J:\Графика\Directx_Light_pyramide\Directx_Light\bin\Debug\Directx_Light.exe
+J:\Графика\Directx_Light_pyramide\Directx_Light\bin\Debug\Directx_Light.pdb
+J:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.csprojResolveAssemblyReference.cache
+J:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.Properties.Resources.resources
+J:\Графика\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.csproj.GenerateResource.Cache
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.Properties.Resources.resources
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.exe
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.pdb
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\bin\Debug\Directx_Light.exe
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\bin\Debug\Directx_Light.pdb
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.csproj.CopyComplete
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.Form1.resources
+C:\Users\Denis\source\repos\Directx_Light_pyramide\Directx_Light\bin\Debug\Microsoft.VisualC.dll
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\bin\Debug\Directx_Light.exe
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\bin\Debug\Directx_Light.pdb
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\bin\Debug\Microsoft.VisualC.dll
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.Form1.resources
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.Properties.Resources.resources
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.csproj.CopyComplete
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.exe
+C:\Users\Denis\source\repos\Directx_pyramide\Directx_Light\obj\x86\Debug\Directx_Light.pdb
+C:\Users\Denis\source\repos\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.Form1.resources
+C:\Users\Denis\source\repos\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.Properties.Resources.resources
+C:\Users\Denis\source\repos\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.exe
+C:\Users\Denis\source\repos\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.pdb
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.csprojAssemblyReference.cache
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.Form1.resources
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.Properties.Resources.resources
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.csproj.GenerateResource.cache
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.exe
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.pdb
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Directx_Light.exe
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Directx_Light.pdb
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Microsoft.VisualC.dll
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Denis\Downloads\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.csproj.CopyComplete
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Directx_Light.exe.config
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Directx_Light.exe
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Directx_Light.pdb
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Microsoft.VisualC.dll
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Microsoft.DirectX.xml
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.csproj.AssemblyReference.cache
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.csproj.SuggestedBindingRedirects.cache
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.Form1.resources
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.Properties.Resources.resources
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.csproj.GenerateResource.cache
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.csproj.CoreCompileInputs.cache
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.csproj.CopyComplete
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.exe
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\obj\x86\Debug\Directx_Light.pdb
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Documents\uni_stuff\7sem\design\Directx_pyramide 0\Directx_pyramide 0\Directx_Light\bin\Debug\Microsoft.DirectX.dll
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\bin\Debug\Directx_Light.exe.config
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\bin\Debug\Directx_Light.exe
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\bin\Debug\Directx_Light.pdb
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\bin\Debug\Microsoft.DirectX.dll
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\bin\Debug\Microsoft.VisualC.dll
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\bin\Debug\Microsoft.DirectX.xml
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\obj\x86\Debug\Directx_Light.csproj.AssemblyReference.cache
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\obj\x86\Debug\Directx_Light.csproj.SuggestedBindingRedirects.cache
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\obj\x86\Debug\Directx_Light.Form1.resources
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\obj\x86\Debug\Directx_Light.Properties.Resources.resources
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\obj\x86\Debug\Directx_Light.csproj.GenerateResource.cache
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\obj\x86\Debug\Directx_Light.csproj.CoreCompileInputs.cache
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\obj\x86\Debug\Directx_Light.csproj.CopyComplete
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\obj\x86\Debug\Directx_Light.exe
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab5\Lab5\Directx_Light\obj\x86\Debug\Directx_Light.pdb

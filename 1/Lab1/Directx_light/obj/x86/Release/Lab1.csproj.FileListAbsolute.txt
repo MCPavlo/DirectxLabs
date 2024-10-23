@@ -1,0 +1,17 @@
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\bin\Release\Directx_Light.exe.config
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\bin\Release\Directx_Light.exe
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\bin\Release\Directx_Light.pdb
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\bin\Release\Microsoft.DirectX.Direct3D.dll
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\bin\Release\Microsoft.DirectX.dll
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\bin\Release\Microsoft.VisualC.dll
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\bin\Release\Microsoft.DirectX.xml
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\bin\Release\Microsoft.DirectX.Direct3D.xml
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\obj\x86\Release\Lab1.csproj.AssemblyReference.cache
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\obj\x86\Release\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\obj\x86\Release\Directx_Light.Form1.resources
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\obj\x86\Release\Directx_Light.Properties.Resources.resources
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\obj\x86\Release\Lab1.csproj.GenerateResource.cache
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\obj\x86\Release\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\obj\x86\Release\Lab1.csproj.CopyComplete
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\obj\x86\Release\Directx_Light.exe
+C:\Users\R6G30N\Downloads\Lab1\Lab1\Directx_Light\obj\x86\Release\Directx_Light.pdb

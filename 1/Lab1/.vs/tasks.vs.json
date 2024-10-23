@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-Lab1",
+      "appliesTo": "Directx_light/Lab1.csproj",
+      "type": "msbuild"
+    }
+  ]
+}

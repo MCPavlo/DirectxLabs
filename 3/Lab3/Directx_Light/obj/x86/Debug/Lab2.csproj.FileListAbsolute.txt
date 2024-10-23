@@ -1,0 +1,17 @@
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\bin\Debug\Directx_Light.exe.config
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\bin\Debug\Directx_Light.exe
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\bin\Debug\Directx_Light.pdb
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\bin\Debug\Microsoft.DirectX.dll
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\bin\Debug\Microsoft.VisualC.dll
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\bin\Debug\Microsoft.DirectX.xml
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\obj\x86\Debug\Lab2.csproj.AssemblyReference.cache
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\obj\x86\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\obj\x86\Debug\Directx_Light.Form1.resources
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\obj\x86\Debug\Directx_Light.Properties.Resources.resources
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\obj\x86\Debug\Lab2.csproj.GenerateResource.cache
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\obj\x86\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\obj\x86\Debug\Lab2.csproj.CopyComplete
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\obj\x86\Debug\Directx_Light.exe
+D:\Documents\uni_stuff\7sem\design\My Labs\Lab2\Directx_Light\obj\x86\Debug\Directx_Light.pdb
